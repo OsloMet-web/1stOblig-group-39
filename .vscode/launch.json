@@ -4,8 +4,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open Test2.html",
-            "file": "c:\\Users\\Andrine\\github-classroom\\OsloMet-web\\1stOblig-group-39\\.github\\Test2.html"
+            "name": "Open page_a.html",
+            "file": "c:\\Users\\Andrine\\github-classroom\\OsloMet-web\\1stOblig-group-39\\.github\\page_a.html"
         }
     ]
 }
