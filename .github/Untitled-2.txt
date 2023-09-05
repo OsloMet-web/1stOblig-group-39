@@ -1,3 +1,0 @@
-<html>
-git config --global user.email "andrine.lerum@live.no"
-  git config --global user.name "Andrine99"
